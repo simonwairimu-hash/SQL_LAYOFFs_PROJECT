@@ -5,8 +5,8 @@ This project analyzes layoffs data using SQL queries to extract insights into la
 
 -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
-<a href="https://github.com/simonwairimu-hash/SQL_LAYOFFs_PROJECT/blob/main/LAYOFFS%20SQL%20DATA%20CLEANING.sql"></a> data cleaning
+-- https://github.com/simonwairimu-hash/SQL_LAYOFFs_PROJECT/blob/main/LAYOFFS%20SQL%20DATA%20CLEANING.sql
 
 # Data Exploration
 
-<a href="https://github.com/simonwairimu-hash/SQL_LAYOFFs_PROJECT/blob/main/MYSQL%20DATA%20ANALYSIS.sql"></a> data exploration
+-- https://github.com/simonwairimu-hash/SQL_LAYOFFs_PROJECT/blob/main/MYSQL%20DATA%20ANALYSIS.sql
